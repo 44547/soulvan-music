@@ -1,0 +1,24 @@
+{
+  "sampleRate": 44100,
+  "bitDepth": 16,
+  "channels": 2,
+  "audioFormats": [
+    "wav",
+    "mp3",
+    "flac"
+  ],
+  "defaultTempo": 120,
+  "defaultMood": "Uplifting",
+  "effects": {
+    "reverb": {
+      "enabled": true,
+      "decay": 1.5,
+      "wetLevel": 0.3
+    },
+    "compression": {
+      "enabled": true,
+      "threshold": -10,
+      "ratio": 4
+    }
+  }
+}
