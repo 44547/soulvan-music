@@ -1,0 +1,36 @@
+{
+  "prefabName": "Skyfire_Raid",
+  "audioSource": "mythic_fire_real.wav",
+  "segments": [
+    {
+      "name": "intro",
+      "start": 0,
+      "end": 15,
+      "file": "unity/audio_segments/mythic_fire_real/intro.wav"
+    },
+    {
+      "name": "build_up",
+      "start": 15,
+      "end": 45,
+      "file": "unity/audio_segments/mythic_fire_real/build_up.wav"
+    },
+    {
+      "name": "climax",
+      "start": 45,
+      "end": 75,
+      "file": "unity/audio_segments/mythic_fire_real/climax.wav"
+    },
+    {
+      "name": "outro",
+      "start": 75,
+      "end": 90,
+      "file": "unity/audio_segments/mythic_fire_real/outro.wav"
+    }
+  ],
+  "ambient_fx": [
+    "wind",
+    "drone hum"
+  ],
+  "voiceover": "Wallet:0xABC123",
+  "generatedAt": "2025-11-10T19:08:50.230Z"
+}

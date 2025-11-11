@@ -1,0 +1,32 @@
+{
+  "inputDevice": {
+    "type": "microphone",
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  "outputDevice": {
+    "type": "speakers",
+    "sampleRate": 44100,
+    "channels": 2
+  },
+  "audioProcessing": {
+    "bufferSize": 512,
+    "latency": 0.01,
+    "effects": {
+      "reverb": {
+        "enabled": true,
+        "amount": 0.5
+      },
+      "delay": {
+        "enabled": true,
+        "time": 0.3,
+        "feedback": 0.4
+      }
+    }
+  },
+  "midi": {
+    "enabled": true,
+    "inputPort": "MIDI Input",
+    "outputPort": "MIDI Output"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "prefabName": "Skyfire_Raid",
+  "audioSource": "mythic_fire.wav",
+  "timeline": {
+    "intro": "0s-15s",
+    "build_up": "15s-45s",
+    "climax": "45s-75s",
+    "outro": "75s-90s"
+  },
+  "ambient_fx": [
+    "wind",
+    "drone hum"
+  ],
+  "voiceover": "Wallet:0xABC123",
+  "generatedAt": "2025-11-10T19:02:34.667Z"
+}
