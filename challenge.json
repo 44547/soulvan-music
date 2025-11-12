@@ -1,0 +1,16 @@
+{
+  "faction": "Skyfire",
+  "opponent": "Shadow",
+  "theme": "Rebellion",
+  "deadline": "2025-12-01",
+  "scoring": [
+    "originality",
+    "impact",
+    "sync"
+  ],
+  "rewards": [
+    "prestige",
+    "awards",
+    "voting_power"
+  ]
+}

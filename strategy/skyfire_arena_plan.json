@@ -1,0 +1,22 @@
+{
+  "wallet": "0xABC123",
+  "faction": "Skyfire",
+  "goal": "Best Beat Award",
+  "remix_matchups": [
+    "pairing1",
+    "pairing2"
+  ],
+  "faction_advantage": {
+    "sound_pulse": "high",
+    "remix_density": 120
+  },
+  "award_targeting": [
+    "Best Beat",
+    "Most Viral Flow"
+  ],
+  "mission_sync": [
+    "crystal_delivery",
+    "lore_unlock"
+  ],
+  "status": "planned"
+}

@@ -1,0 +1,66 @@
+{
+  "Add jazz": [
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762884923.5439029
+    },
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762885188.2760704
+    },
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762885299.1976943
+    },
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762956393.2220104
+    },
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762956893.661722
+    },
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762957084.5929627
+    },
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762957784.5536296
+    },
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762958237.3879828
+    },
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762958798.0185854
+    },
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762959150.0435092
+    },
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762960644.4856546
+    }
+  ],
+  "Add jazz fusion": [
+    {
+      "wallet": "0xABC123",
+      "vote": "yes",
+      "timestamp": 1762884938.3028467
+    }
+  ]
+}

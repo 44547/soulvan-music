@@ -1,0 +1,26 @@
+{
+  "genres": {
+    "Trap": {
+      "remix_density": 120,
+      "emotional_tone": "Epic",
+      "contributors": 42
+    },
+    "Reggae": {
+      "remix_density": 85,
+      "emotional_tone": "Soulful",
+      "contributors": 33
+    },
+    "Dub": {
+      "remix_density": 67,
+      "emotional_tone": "Hypnotic",
+      "contributors": 28
+    },
+    "Deep Techno": {
+      "remix_density": 54,
+      "emotional_tone": "Stealth",
+      "contributors": 19
+    }
+  },
+  "last_updated": "2025-11-12T12:00:00Z",
+  "status": "generated"
+}

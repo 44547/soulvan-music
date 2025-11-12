@@ -1,0 +1,12 @@
+{
+  "wallet": "0xABC",
+  "faction": "Skyfire",
+  "category": "Best Beat",
+  "highlights": [
+    "Remix highlight 1",
+    "Voiceover",
+    "Crowd reaction"
+  ],
+  "prestige_boost": 50,
+  "trailer_url": "./trailers/Skyfire_Best Beat.mp4"
+}

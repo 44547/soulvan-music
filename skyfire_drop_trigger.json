@@ -1,0 +1,13 @@
+{
+  "input": "./beat_epicdrop.wav",
+  "faction": "Skyfire",
+  "mission_type": "Raid",
+  "wallet": "0xABC123",
+  "drop_trigger": "auto-detected",
+  "sync": "UnityTimeline",
+  "rewards": [
+    "prestige boost",
+    "award nomination"
+  ],
+  "status": "generated"
+}

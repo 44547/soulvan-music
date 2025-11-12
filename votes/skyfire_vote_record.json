@@ -1,0 +1,9 @@
+{
+  "wallet": "0xABC123",
+  "proposal": "Release FX Pack: Mythic Echoes Vol. 2",
+  "vote": "Yes",
+  "voting_power": 100,
+  "secure_ledger": true,
+  "timestamp": "2025-11-12T12:00:00Z",
+  "status": "recorded"
+}

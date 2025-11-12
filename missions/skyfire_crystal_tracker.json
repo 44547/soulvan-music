@@ -1,0 +1,17 @@
+{
+  "wallet": "0xABC123",
+  "mission": "Skyfire Raid",
+  "delivery_status": "in_progress",
+  "crystal_location": "mission_world",
+  "trigger_events": [
+    "lore_unlock",
+    "award_ceremony",
+    "dna_mutation"
+  ],
+  "faction_impact": {
+    "sound_pulse": "boosted",
+    "remix_density": 130,
+    "prestige": 50
+  },
+  "status": "tracked"
+}

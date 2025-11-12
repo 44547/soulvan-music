@@ -1,0 +1,11 @@
+{
+  "wallet": "0xABC123",
+  "faction": "Skyfire",
+  "boost_factor": "Originality",
+  "effects": [
+    "leaderboard rise",
+    "DAO voting multiplier",
+    "FX pack unlock"
+  ],
+  "status": "applied"
+}

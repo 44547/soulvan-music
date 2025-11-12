@@ -1,0 +1,21 @@
+{
+  "wallet": "0xABC123...",
+  "scope": "multi-faction",
+  "rippleEffects": [
+    {
+      "faction": "Skyfire",
+      "event": "Lore Unlock: Anthem of Rebellion",
+      "impact": "Shifted sound pulse to ethereal",
+      "linkedCeremony": "Prestige Tier 3 Ascend"
+    },
+    {
+      "faction": "Shadowrift",
+      "event": "Award Win: Best FX Pack",
+      "impact": "Introduced whisper chant ritual",
+      "linkedCeremony": "Whispering Abyss Ceremony"
+    }
+  ],
+  "replayNodes": [],
+  "loreContext": [],
+  "daoVotingInfluence": []
+}

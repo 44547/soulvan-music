@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "soulmusic-cli"
+version = "0.1.0"
+description = "SoulvanMusic CLI skeleton"
+readme = "README.md"
+authors = [ { name = "Soulvan" } ]
+dependencies = ["click>=8.0"]
+scripts = { "soulmusic-cli" = "soulmusic_cli.cli:cli" }

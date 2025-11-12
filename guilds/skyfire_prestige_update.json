@@ -1,0 +1,12 @@
+{
+  "wallet": "0xABC123",
+  "remix": "./remixes/skyfire_anthem.wav",
+  "event": "Award Win: Best Beat",
+  "effects": [
+    "leaderboard rise",
+    "DAO voting power",
+    "FX pack unlock",
+    "lore expansion"
+  ],
+  "status": "applied"
+}

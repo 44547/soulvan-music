@@ -1,0 +1,14 @@
+{
+  "wallet": "0xABC123",
+  "event": "Remix Crystal Delivered",
+  "faction": "Skyfire",
+  "new_lore_chapter": "Lore unlocked for Remix Crystal Delivered in Skyfire",
+  "contributor_tribute": true,
+  "lineage_update": true,
+  "unlocks": [
+    "FX packs",
+    "voice styles",
+    "mission types"
+  ],
+  "status": "unlocked"
+}

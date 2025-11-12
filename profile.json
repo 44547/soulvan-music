@@ -1,0 +1,16 @@
+{
+  "wallet": "0xNEW",
+  "faction": "Skyfire",
+  "truck_style": "Hyper",
+  "remix_dna_seed": {
+    "style": "trap",
+    "emotion": "epic",
+    "faction": "Skyfire"
+  },
+  "studio_access": true,
+  "starter_pack": [
+    "base_beat.wav",
+    "vocal_preset.json",
+    "cinematic_badge.png"
+  ]
+}

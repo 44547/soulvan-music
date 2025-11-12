@@ -1,0 +1,30 @@
+{
+  "wallet": "0xABC123",
+  "faction": "Skyfire",
+  "remix_timeline": [
+    "remix1",
+    "mutation1",
+    "genre_shift1"
+  ],
+  "mission_log": [
+    "crystal_delivery",
+    "raid",
+    "recon"
+  ],
+  "award_history": [
+    "Best Beat",
+    "Most Viral Flow",
+    "Remix Ceremony"
+  ],
+  "guild_impact": [
+    "prestige boost",
+    "DAO vote",
+    "arena victory"
+  ],
+  "lore_interactions": [
+    "expansion",
+    "whisper narration",
+    "DNA awakening"
+  ],
+  "status": "generated"
+}

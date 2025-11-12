@@ -1,0 +1,16 @@
+{
+  "input": "./beat_epicdrop.wav",
+  "mission": "Skyfire Raid",
+  "wallet": "0xABC123",
+  "trigger_event": "RemixCrystalDelivery",
+  "objectives": [
+    "deliver crystal",
+    "evade thieves",
+    "trigger drop"
+  ],
+  "rewards": [
+    "prestige boost",
+    "award nomination"
+  ],
+  "status": "generated"
+}

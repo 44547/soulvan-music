@@ -1,0 +1,15 @@
+{
+  "scope": "Global",
+  "narrative": [
+    "remix1",
+    "mutation1",
+    "genre_shift1"
+  ],
+  "replayNodes": [],
+  "loreLinks": [
+    "expansion",
+    "whisper narration",
+    "DNA awakening"
+  ],
+  "daoVotingContext": []
+}

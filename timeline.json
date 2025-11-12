@@ -1,0 +1,17 @@
+{
+  "timeline": {
+    "intro": "0s\u20130.4s",
+    "build_up": "0.4s\u20130.4s",
+    "climax": "0.4s\u20130.4s",
+    "outro": "0.4s\u20133.6s"
+  },
+  "voiceover": "Charge into the fray, warriors of the faction!",
+  "ambient_fx": [
+    "explosions",
+    "sirens",
+    "crowd roar"
+  ],
+  "mission_type": "Raid",
+  "wallet": "0xABC123",
+  "input_file": "./test_beat.wav"
+}

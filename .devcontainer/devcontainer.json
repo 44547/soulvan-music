@@ -1,0 +1,12 @@
+{
+  "name": "SoulvanMusic Devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/python:0-3.11",
+  "features": {},
+  "workspaceFolder": "/workspace",
+  "postCreateCommand": "pip install --no-cache-dir -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Cinematic Echoes",
+  "wallet": "0xABC",
+  "fx": {
+    "ambient": [
+      "wind",
+      "drone hum"
+    ],
+    "vocal": [
+      "autoharmony",
+      "whisper"
+    ],
+    "beat": [
+      "epic drop",
+      "tension riser"
+    ],
+    "trailer": [
+      "crowd roar",
+      "stinger"
+    ]
+  },
+  "installed": true
+}
