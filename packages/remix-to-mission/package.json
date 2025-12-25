@@ -1,0 +1,14 @@
+{
+  "name": "@soulvan/remix-to-mission",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "dev": "ts-node src/cli.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.5.0",
+    "@types/node": "^20.4.2"
+  }
+}
